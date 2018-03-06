@@ -1,1 +1,1 @@
-"# rooted con 2018 slides" 
+# rooted con 2018 slides
